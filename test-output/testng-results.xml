@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45102" started-at="2017-10-26T14:40:26Z" finished-at="2017-10-26T14:41:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45102" started-at="2017-10-26T14:40:26Z" finished-at="2017-10-26T14:41:11Z">
+      <class name="demo1.LoginTest">
+        <test-method status="PASS" signature="searchongooge()[pri:0, instance:demo1.LoginTest@1275dab]" name="searchongooge" duration-ms="45000" started-at="2017-10-26T20:10:26Z" finished-at="2017-10-26T20:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchongooge -->
+      </class> <!-- demo1.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
